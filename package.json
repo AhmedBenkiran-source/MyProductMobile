@@ -1,0 +1,44 @@
+{
+  "name": "plant-app",
+  "version": "0.0.0",
+  "description": "react-ui-kit/dribbble2react @ Apr 6, 2019",
+  "author": "Ahmed",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "expo": "^32.0.0",
+    "expo-firebase-auth": "^2.0.0",
+    "expo-secure-store": "^6.0.0",
+    "nas-react-native-gifted-listview": "0.0.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-alphabetlistview": "^0.3.1",
+    "react-native-dialog": "^5.6.0",
+    "react-native-dropdownalert": "^4.2.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-fetch": "^2.0.0",
+    "react-native-file-viewer": "^2.0.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-off-canvas-menu": "^0.1.32",
+    "react-native-picker-dropdown": "^0.1.2",
+    "react-native-picker-module": "^1.1.1",
+    "react-native-remote-svg": "^2.0.6",
+    "react-native-slider": "^0.11.0",
+    "react-native-step-indicator": "0.0.11",
+    "react-native-super-grid": "^3.0.9",
+    "react-native-tab-view": "^2.10.0",
+    "react-native-textarea": "^1.0.3",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^3.6.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
